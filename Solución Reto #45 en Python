@@ -19,8 +19,6 @@ n = array[0]
 total = 0
 valor = len(array)
 x = 0
-indice = array[x]
-resultado= n - indice
 
 for i in range(valor):
     try:
